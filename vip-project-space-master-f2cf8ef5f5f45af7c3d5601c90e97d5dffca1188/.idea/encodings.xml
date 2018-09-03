@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/activity-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activity-service/activity-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activity-service/activity-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-activity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-cashier" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-parent/gpmall-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-parent/gpmall-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-service/pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-service/pay-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-provider" charset="UTF-8" />
+  </component>
+</project>

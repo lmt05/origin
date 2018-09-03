@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activity-service/activity-api/activity-api.iml" filepath="$PROJECT_DIR$/activity-service/activity-api/activity-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity-service/activity-provider/activity-provider.iml" filepath="$PROJECT_DIR$/activity-service/activity-provider/activity-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity-service/activity-service.iml" filepath="$PROJECT_DIR$/activity-service/activity-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-activity/gpmall-activity.iml" filepath="$PROJECT_DIR$/gpmall-activity/gpmall-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-cashier/gpmall-cashier.iml" filepath="$PROJECT_DIR$/gpmall-cashier/gpmall-cashier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-common/gpmall-common.iml" filepath="$PROJECT_DIR$/gpmall-common/gpmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-parent/gpmall-dubbo/gpmall-dubbo.iml" filepath="$PROJECT_DIR$/gpmall-parent/gpmall-dubbo/gpmall-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-parent/gpmall-parent.iml" filepath="$PROJECT_DIR$/gpmall-parent/gpmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-sso/gpmall-sso.iml" filepath="$PROJECT_DIR$/gpmall-sso/gpmall-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-parent/gpmall-web/gpmall-web.iml" filepath="$PROJECT_DIR$/gpmall-parent/gpmall-web/gpmall-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-service/pay-api/pay-api.iml" filepath="$PROJECT_DIR$/pay-service/pay-api/pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-service/pay-provider/pay-provider.iml" filepath="$PROJECT_DIR$/pay-service/pay-provider/pay-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-service/pay-service.iml" filepath="$PROJECT_DIR$/pay-service/pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-api/user-api.iml" filepath="$PROJECT_DIR$/user-service/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-provider/user-provider.iml" filepath="$PROJECT_DIR$/user-service/user-provider/user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

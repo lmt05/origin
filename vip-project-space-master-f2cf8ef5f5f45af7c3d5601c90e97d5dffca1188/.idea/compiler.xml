@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activity-api" />
+        <module name="activity-provider" />
+        <module name="gpmall-activity" />
+        <module name="gpmall-cashier" />
+        <module name="gpmall-common" />
+        <module name="gpmall-sso" />
+        <module name="kafka-demo" />
+        <module name="pay-api" />
+        <module name="pay-provider" />
+        <module name="user-api" />
+        <module name="user-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activity-api" target="1.8" />
+      <module name="activity-provider" target="1.8" />
+      <module name="activity-service" target="1.8" />
+      <module name="gpmall-activity" target="1.7" />
+      <module name="gpmall-cashier" target="1.7" />
+      <module name="gpmall-common" target="1.7" />
+      <module name="gpmall-dubbo" target="1.7" />
+      <module name="gpmall-parent" target="1.7" />
+      <module name="gpmall-sso" target="1.7" />
+      <module name="gpmall-web" target="1.7" />
+      <module name="kafka-demo" target="1.7" />
+      <module name="pay-api" target="1.8" />
+      <module name="pay-provider" target="1.8" />
+      <module name="pay-service" target="1.8" />
+      <module name="user-api" target="1.8" />
+      <module name="user-provider" target="1.8" />
+      <module name="user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

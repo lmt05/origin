@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dao.studentDao">
+    <resultMap id="studentMap" type="pojo.Student">
+        <id property="sId" column="s_id"/>
+        <result property="sName" column="s_name"/>
+        <result property="sAge" column="s_age"/>
+        <result property="sSex" column="s_sex"/>
+        <result property="sAdress" column="s_adress"/>
+        <result property="sClass" column="s_class"/>
+    </resultMap>
+
+
+    <select id="findAll" resultMap="studentMap">
+        select
+        S_ID,S_NAME,S_AGE,S_SEX,S_ADRESS,S_CLASS
+         from student
+    </select>
+</mapper>
