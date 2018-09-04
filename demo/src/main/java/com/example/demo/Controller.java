@@ -8,6 +8,7 @@ public class Controller {
 
     @RequestMapping("hello")
     public String test(String arg) {
+        System.out.println("第一次提交成功");
         return "hello," + arg;
     }
 }
